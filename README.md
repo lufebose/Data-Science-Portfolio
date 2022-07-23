@@ -15,3 +15,17 @@ iii. Analyzed the bond and foreign exchange market by extracting information in 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/82a8322c8d0a54b570c6162aa533cdb90ab65caa/images/infl_exp.png)
 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/6a924f085f391ce8e9675cb8397ee9698b6f4958/images/dollar2022.png)
+
+#
+
+Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
+
+#
+
+i. Used the Prophet package to forecast the CRC/USD exchange rate. Prophet is a very good package to forecast these kinds of series because of non-linearity and high seasonality. 
+
+ii. With Prophet the seasonality of the variables was analyzed thoroughly. It was observed that the days with the highest seasonality are from Wednesday to Saturday whereas the months with the highest seasonality are June and November. 
+
+iii. With mFilter it was easy to separate the different components of the time series.
+
+
