@@ -30,4 +30,6 @@ iii. With mFilter it was easy to separate the different components of the time s
 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/37aa50361bbee666b699eac8f56148879d090101/images/Filtered%20data.png)
 
-![](
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/forecasting365.png)
+
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/trend-weekly-yearly.png)
