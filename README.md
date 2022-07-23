@@ -22,11 +22,11 @@ Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Proph
 
 #
 
-i. Used the Prophet package to forecast the CRC/USD exchange rate. Prophet is a very good package to forecast these kinds of series because of non-linearity and high seasonality. 
+i. Used the Prophet package to forecast the CRC/USD exchange rate. Prophet proved to be a good package to forecast these kinds of series because of non-linearity and high seasonality
 
-ii. With Prophet the seasonality of the variables was analyzed thoroughly. It was observed that the days with the highest seasonality are from Wednesday to Saturday whereas the months with the highest seasonality are June and November. 
+ii. With Prophet the seasonality of the variables was analyzed thoroughly. It was observed that the days with the highest seasonality are from Wednesday to Saturday whereas the months with the highest seasonality are June and November
 
-iii. With mFilter it was easy to separate the different components of the time series.
+iii. mFilter was used to separate the different components of the time series
 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/forecasting365.png)
 
