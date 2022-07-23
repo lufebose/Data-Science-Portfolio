@@ -2,7 +2,7 @@
 Includes the major Data Science projects that I've created using R Studio 
 
 
-Project 1: Analyzing Bitcoin (BTC) price while inflation expectations are high
+## Project 1: Analyzing Bitcoin (BTC) price while inflation expectations are high
 # 
 i. Used tidyquant, tidyverse, timetk, lubridate, dplyr ggplot2 to extract, analyze and visualize how BTC has behaved during 2022 when it went below $20,000 
 
@@ -18,7 +18,7 @@ iii. Analyzed the bond and foreign exchange market by extracting information in 
 
 #
 
-Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
+## Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
 
 #
 
