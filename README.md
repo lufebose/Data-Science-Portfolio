@@ -34,5 +34,5 @@ iii. mFilter was used to separate the different components of the time series
 
 ![](/images/trend-weekly-yearly.png)
 
-![](/images/filtered_data.png) 
+![](/images/filtered_data.png)
 
