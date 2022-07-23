@@ -1,9 +1,12 @@
 # R-Data-Science-Portfolio
+
+Welcome to my GitHub. Here you will find my Portfolio. 
+
 Includes the major Data Science projects that I've created using R Studio 
 
-
+#
 ## Project 1: Analyzing Bitcoin (BTC) price while inflation expectations are high
-# 
+
 i. Used tidyquant, tidyverse, timetk, lubridate, dplyr ggplot2 to extract, analyze and visualize how BTC has behaved during 2022 when it went below $20,000 
 
 ii. Obtained other time series such as University of Michigan monthly Inflation Expectations from the FRED Website using Tidyquant in order to better understand BTC's downward spiral
@@ -20,7 +23,6 @@ iii. Analyzed the bond and foreign exchange market by extracting information in 
 
 ## Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
 
-#
 
 i. Used the Prophet package to forecast the CRC/USD exchange rate. Prophet proved to be a good package to forecast these kinds of series because of non-linearity and high seasonality
 
