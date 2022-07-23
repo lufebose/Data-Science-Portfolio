@@ -11,3 +11,6 @@ ii. Obtained other time series such as University of Michigan monthly Inflation 
 iii. Analyzed the bond and currency market by extracting information in an automated way using the Tidyquant Package in R
 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/fc494e85d7ebfeb2f161d94a9dcdcd467eea1696/images/btc_price.png)
+
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/82a8322c8d0a54b570c6162aa533cdb90ab65caa/images/infl_exp.png)
+
