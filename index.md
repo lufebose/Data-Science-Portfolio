@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## R-Data-Science-Portfolio
+Includes the major Data Science projects that I've created using R Studio 
 
-You can use the [editor on GitHub](https://github.com/lufebose/R-Data-Science-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Project 1: Analyzing Bitcoin (BTC) price while inflation expectations are high
+# 
+i. Used tidyquant, tidyverse, timetk, lubridate, dplyr ggplot2 to extract, analyze and visualize how BTC has behaved during 2022 when it went below $20,000 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ii. Obtained other time series such as University of Michigan monthly Inflation Expectations from the FRED Website using Tidyquant in order to better understand BTC's downward spiral
 
-### Markdown
+iii. Analyzed the bond and foreign exchange market by extracting information in an automated way using the Tidyquant Package in R
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/fc494e85d7ebfeb2f161d94a9dcdcd467eea1696/images/btc_price.png)
 
-```markdown
-Syntax highlighted code block
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/82a8322c8d0a54b570c6162aa533cdb90ab65caa/images/infl_exp.png)
 
-# Header 1
-## Header 2
-### Header 3
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/6a924f085f391ce8e9675cb8397ee9698b6f4958/images/dollar2022.png)
 
-- Bulleted
-- List
+#
 
-1. Numbered
-2. List
+Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
 
-**Bold** and _Italic_ and `Code` text
+#
 
-[Link](url) and ![Image](src)
-```
+i. Used the Prophet package to forecast the CRC/USD exchange rate. Prophet proved to be a good package to forecast these kinds of series because of non-linearity and high seasonality
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ii. With Prophet the seasonality of the variables was analyzed thoroughly. It was observed that the days with the highest seasonality are from Wednesday to Saturday whereas the months with the highest seasonality are June and November
 
-### Jekyll Themes
+iii. mFilter was used to separate the different components of the time series
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lufebose/R-Data-Science-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/forecasting365.png)
 
-### Support or Contact
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/trend-weekly-yearly.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/37aa50361bbee666b699eac8f56148879d090101/images/Filtered%20data.png)
+
