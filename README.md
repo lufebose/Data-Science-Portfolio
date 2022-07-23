@@ -8,6 +8,6 @@ i. Used tidyquant, tidyverse, timetk, lubridate, dplyr ggplot2 to extract, analy
 
 ii. Obtained other time series such as University of Michigan monthly Inflation Expectations from the FRED Website using Tidyquant in order to better understand BTC's downward spiral
 
-iii. Analyzed the bond and currency market by extracting information in an automated manner using the Tidyquant Package in R
+iii. Analyzed the bond and currency market by extracting information in an automated way using the Tidyquant Package in R
 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/fc494e85d7ebfeb2f161d94a9dcdcd467eea1696/images/btc_price.png)
