@@ -14,3 +14,4 @@ iii. Analyzed the bond and currency market by extracting information in an autom
 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/82a8322c8d0a54b570c6162aa533cdb90ab65caa/images/infl_exp.png)
 
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/6a924f085f391ce8e9675cb8397ee9698b6f4958/images/dollar2022.png)
