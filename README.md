@@ -13,9 +13,9 @@ ii. Obtained other time series such as University of Michigan monthly Inflation 
 
 iii. Analyzed the bond and foreign exchange market by extracting information in an automated way using the Tidyquant Package in R
 
-![](images/btc_price.png)
+![](/images/btc_price.png)
 
-![](images/infl_exp.png)
+![](/images/infl_exp.png)
 
 ![](/images/dollar2022.png)
 
@@ -30,9 +30,9 @@ ii. With Prophet the seasonality of the variables was analyzed thoroughly. It wa
 
 iii. mFilter was used to separate the different components of the time series
 
-![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/forecasting365.png)
+![](/images/forecasting365.png)
 
-![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/trend-weekly-yearly.png)
+![](/images/trend-weekly-yearly.png)
 
-![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/37aa50361bbee666b699eac8f56148879d090101/images/Filtered%20data.png)
+![](/images/Filtered%20data.png)
 
