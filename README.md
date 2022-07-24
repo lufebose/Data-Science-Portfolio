@@ -21,7 +21,7 @@ iii. Analyzed the bond and foreign exchange market by extracting information in 
 
 ![](/images/dollar2022.png)
 
-Full PDF document here: https://es.overleaf.com/read/bzsxgpyjqhkb
+Full PDF document here: ![](https://es.overleaf.com/read/bzsxgpyjqhkb)
 
 ## Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and Time Series filtering using mFilter
 
@@ -38,7 +38,7 @@ iii. mFilter was used to separate the different components of the time series
 
 ![](/images/filtered_data.png)
 
-Full PDF document here: https://es.overleaf.com/read/rvjfyttvytzh
+Full PDF document here: ![](https://es.overleaf.com/read/rvjfyttvytzh)
 
 ## Project 3: Analyzing commodities when volatility is high and bond & equity returns are low using the tidyquant Package
 
