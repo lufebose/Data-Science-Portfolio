@@ -52,8 +52,8 @@ ii. Obtained the VIX index data using tidyquant in order to understand what has 
 
 ## Project 4: Understanding the EUR/USD 1:1 parity  
 
-i. Using several R packages such as ggplot2, tidyverse, tidyquant, timetk, lubridate, magrittr and dplyr I studied why the EUR/USD parity happened during 2022. 
+i. Using several R packages such as ggplot2, tidyverse, tidyquant, timetk, lubridate, magrittr and dplyr I studied why the EUR/USD parity happened during 2022
 
-ii. Other time series were obtained (using tidyquant) such as the fed funds rate, the University of Michigan inflation expectations and the Eurozone expected inflation. 
+ii. Other time series were obtained (using tidyquant) such as the Fed Funds Rate, the University of Michigan inflation expectations and the Eurozone expected inflation
 
 ![](images/eurusd_w_title.png)
