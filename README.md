@@ -21,7 +21,7 @@ iii. Analyzed the bond and foreign exchange market by extracting information in 
 
 ![](/images/dollar2022.png)
 
-
+Full PDF document here: https://es.overleaf.com/read/bzsxgpyjqhkb
 
 ## Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and Time Series filtering using mFilter
 
@@ -38,6 +38,8 @@ iii. mFilter was used to separate the different components of the time series
 
 ![](/images/filtered_data.png)
 
+Full PDF document here: https://es.overleaf.com/read/rvjfyttvytzh
+
 ## Project 3: Analyzing commodities when volatility is high and bond & equity returns are low using the tidyquant Package
 
 i. Analyzed the what has happened with the price of commodities and how these real assets have been one of the best options to take refuge against inflation in 2022 
@@ -48,7 +50,7 @@ ii. Obtained the VIX index data using tidyquant in order to understand what has 
 
 ![](images/vix_index.png)
 
-## Project 4: Understanding why the Euro and dollar 1:1 parity happened 
+## Project 4: Understanding the EUR/USD 1:1 parity  
 
 i. Using several R packages such as ggplot2, tidyverse, tidyquant, timetk, lubridate, magrittr and dplyr I studied why the EUR/USD parity happened during 2022. 
 
