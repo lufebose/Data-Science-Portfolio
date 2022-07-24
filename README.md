@@ -54,4 +54,4 @@ i. Using several R packages such as ggplot2, tidyverse, tidyquant, timetk, lubri
 
 ii. Other time series were obtained (using tidyquant) such as the fed funds rate, the University of Michigan inflation expectations and the Eurozone expected inflation. 
 
-
+![](images/eurusd_w_title.png)
