@@ -1,8 +1,8 @@
 # R-Data-Science-Portfolio
 
-Welcome to my GitHub. Here you will find my Portfolio. 
+Welcome to my GitHub. My name is Luis Felipe Bolaños. I'm an economist graduated from the University of Costa Rica in 2020 and currently I'm coursing my MSc in Nova School of Business and Economics in Lisbon, Portugal. 
 
-Includes the major Data Science projects that I've created using R Studio 
+Here you will find my Portfolio. It includes the major Data Science projects that I've created using R Studio 
 
 
 ## Project 1: Analyzing Bitcoin (BTC) price while inflation expectations are high
@@ -35,4 +35,12 @@ iii. mFilter was used to separate the different components of the time series
 ![](/images/trend-weekly-yearly.png)
 
 ![](/images/filtered_data.png)
+
+## Project 3: Analyzing commodities when volatility is high and bond & equity returns are low using the tidyquant Package
+
+i. Analyzed the what has happened with the price of commodities and how these real assets have been one of the best options to take refuge against inflation in 2022 
+
+ii. Obtained the VIX index data using tidyquant in order to understand what has happened with volatility and why commodities are still a risky choice to invest nowadays. 
+
+
 
