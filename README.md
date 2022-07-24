@@ -44,5 +44,5 @@ ii. Obtained the VIX index data using tidyquant in order to understand what has 
 
 ![](images/Commodities_july_2022.png)
 
-![](
+![](images/vix_index.png)
 
