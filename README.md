@@ -42,5 +42,7 @@ i. Analyzed the what has happened with the price of commodities and how these re
 
 ii. Obtained the VIX index data using tidyquant in order to understand what has happened with volatility and why commodities are still a risky choice to invest nowadays. 
 
+![](images/Commodities_july_2022.png)
 
+![](
 
