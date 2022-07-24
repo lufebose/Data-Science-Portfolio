@@ -1,8 +1,10 @@
 # R-Data-Science-Portfolio
 
-Welcome to my GitHub. My name is Luis Felipe Bolaños. I'm an economist graduated from the University of Costa Rica in 2020 and currently I'm coursing my MSc at Nova School of Business and Economics in Lisbon, Portugal. 
+Welcome to my GitHub. 
 
-Here you will find my Portfolio. It includes the major Data Science projects that I've created using R Studio 
+My name is Luis Felipe Bolaños. I'm an economist graduated from the University of Costa Rica in 2020 and I'm currently doing my MSc at Nova School of Business and Economics in Lisbon, Portugal. 
+
+Here you will find my Portfolio. It includes the major Data Science projects that I've created using R Studio. These are mostly weekly insights that I publish in my Linkedin page, however, they include coding and economic analysis. 
 
 
 ## Project 1: Analyzing Bitcoin (BTC) price while inflation expectations are high
@@ -45,4 +47,11 @@ ii. Obtained the VIX index data using tidyquant in order to understand what has 
 ![](images/Commodities_july_2022.png)
 
 ![](images/vix_index.png)
+
+## Project 4: Understanding why the Euro and dollar 1:1 parity happened 
+
+i. Using several R packages such as ggplot2, tidyverse, tidyquant, timetk, lubridate, magrittr and dplyr I studied why the EUR/USD parity happened during 2022. 
+
+ii. Other time series were obtained (using tidyquant) such as the fed funds rate, the University of Michigan inflation expectations and the Eurozone expected inflation. 
+
 
