@@ -1,6 +1,6 @@
 # R-Data-Science-Portfolio
 
-Welcome to my GitHub. My name is Luis Felipe Bolaños. I'm an economist graduated from the University of Costa Rica in 2020 and currently I'm coursing my MSc in Nova School of Business and Economics in Lisbon, Portugal. 
+Welcome to my GitHub. My name is Luis Felipe Bolaños. I'm an economist graduated from the University of Costa Rica in 2020 and currently I'm coursing my MSc at Nova School of Business and Economics in Lisbon, Portugal. 
 
 Here you will find my Portfolio. It includes the major Data Science projects that I've created using R Studio 
 
