@@ -57,3 +57,11 @@ i. Using several R packages such as ggplot2, tidyverse, tidyquant, timetk, lubri
 ii. Other time series were obtained (using tidyquant) such as the Fed Funds Rate, the University of Michigan inflation expectations and the Eurozone expected inflation
 
 ![](images/eurusd_w_title.png)
+
+## Project 5: Forecasting the EUR/USD exchange rate using various methods
+
+i. Used the forecast, tseries, timetk, dplyr, tidyverse and tidyquant packages in order to obtain, analyze, plot and model the time series. 
+
+ii. Using the forecast package, it was possible to apply various models to forecast the time series. The models used were ARIMA and ETS. It was thoroughly analyzed using the Ljung-Box test, Augmented Dickey Fuller test and the function checkresiduals in order to search for autocorrelation. It was found that errors did not present autocorrelation and were in the 0 neighborhood. 
+
+![](images/.png)
