@@ -59,7 +59,7 @@ ii. Other time series were obtained (using tidyquant) such as the Fed Funds Rate
 ![](images/eurusd_w_title.png)
 
 ## Project 5: Forecasting the EUR/USD exchange rate using various methods
-
+ 
 i. Used the forecast, tseries, timetk, dplyr, tidyverse and tidyquant packages in order to obtain, analyze, plot and model the time series. 
 
 ii. Using the forecast package, it was possible to apply various models to forecast the time series. The models used were ARIMA and ETS. It was thoroughly analyzed using the Ljung-Box test, Augmented Dickey Fuller test and the function checkresiduals in order to search for autocorrelation. It was found that errors did not present autocorrelation and were in the 0 neighborhood. The specification of ARIMA(2,2,2) was chosen because the errors 
