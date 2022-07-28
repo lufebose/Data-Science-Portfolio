@@ -64,13 +64,20 @@ i. Used the forecast, tseries, timetk, dplyr, tidyverse and tidyquant packages i
 
 ii. Using the forecast package, it was possible to apply various models to forecast the time series. The models used were ARIMA and ETS. It was thoroughly analyzed using the Ljung-Box test, Augmented Dickey Fuller test and the function checkresiduals in order to search for autocorrelation. It was found that errors did not present autocorrelation and were in the 0 neighborhood. The specification of ARIMA(2,2,2) was chosen because the errors 
 
-iii. With the tseries package, it was possible to observe and prove that the original time series was non-stationary, hence, it was differenced twice until the ADF test determined that the series was stationary. 
-
 ![](images/arima222.png)
 
 ![](images/residuals_arima222.png)
 
-![](images/forecast_stl_ets.png.png)
+![](images/forecast_stl_ets.png)
+
+iii. With the tseries package, it was possible to observe and prove that the original time series was non-stationary, hence, it was differenced twice until the ADF test determined that the series was stationary. Below, the first-differenced and second differenced time series can be observed. 
+
+![](images/images/eur_ts_d1.png)
+
+![](images/images/eur_ts_d2.png)
+
+Full PDF document here: [EUR_Forecast](https://es.overleaf.com/read/kjcbcchbfxkf)
+
 
 
 
