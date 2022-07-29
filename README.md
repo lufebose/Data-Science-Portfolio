@@ -74,7 +74,7 @@ iii. With the tseries package, it was possible to observe and prove that the ori
 
 ![](images/images/eur_ts_d1.png)
 
-![](images/images/eur_ts_d2.png)
+![](images/images/eur_ts_d2.png) 
 
 Full PDF document here: [EUR_Forecast](https://es.overleaf.com/read/kjcbcchbfxkf)
 
