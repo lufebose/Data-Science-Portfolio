@@ -72,9 +72,9 @@ ii. Using the forecast package, it was possible to apply various models to forec
 
 iii. With the tseries package, it was possible to observe and prove that the original time series was non-stationary, hence, it was differenced twice until the ADF test determined that the series was stationary. Below, the first-differenced and second differenced time series can be observed. 
 
-![](images/images/eur_ts_d1.png)
+![](images/eur_ts_d1.png)
 
-![](images/images/eur_ts_d2.png) 
+![](images/eur_ts_d2.png) 
 
 Full PDF document here: [EUR_Forecast](https://es.overleaf.com/read/kjcbcchbfxkf)
 
