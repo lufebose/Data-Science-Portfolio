@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Page. 
 
-My name is Luis Felipe Bolaños. I'm an economist who graduated from the University of Costa Rica in 2020 and I'm currently doing my MSc at Nova School of Business and Economics in Lisbon, Portugal. 
+My name is Luis Felipe Bolaños. I'm an economist graduated from the University of Costa Rica in 2020 and I'm currently doing my MSc at Nova School of Business and Economics (Universidade Nova de Lisboa) in Lisbon, Portugal. 
 
 Here you will find my Portfolio. It includes the major Data Science projects that I've created using R Studio. These are mostly weekly insights that I publish in my Linkedin page, however, they all include coding and economic analysis. 
 
