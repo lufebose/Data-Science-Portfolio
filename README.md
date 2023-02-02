@@ -4,6 +4,8 @@ Welcome to my GitHub Page.
 
 My name is Luis Felipe Bolaños Serrano. I'm an economist graduated from the University of Costa Rica in 2020 and I'm currently doing my MSc at Nova School of Business and Economics (Universidade Nova de Lisboa) in Lisbon, Portugal. 
 
+My LinkedIn page is: https://www.linkedin.com/in/felipe-bolaños-ucr/
+
 Here you will find my Portfolio. It includes the major Data Science projects that I've created using R Studio and some other projects. These are mostly weekly insights that I publish in my Linkedin page or other research-related work, however, they all include coding and economic analysis. 
 
 
