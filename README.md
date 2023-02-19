@@ -14,3 +14,7 @@ Location: Lisbon, Portugal
 
 Here you can find the research that I did independently during 2022 using R. These insights were published during 2022 and were related to economic/geopolitical events. It can be found in the 2022.md file. 
 
+
+You can access my CV here: 
+
+[CV - Luis Felipe Bolaños Serrano_MAR23.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777649/CV.-.Luis.Felipe.Bolanos.Serrano_MAR23.pdf)
