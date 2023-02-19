@@ -27,9 +27,11 @@ Co-Authors: Tommasso Mazzota, Miguel Oliveira and Daniel Silva
 #
 i. Analyzed the utilization of Capital Controls in Chile during the 1990s to prevent the appreciation of the Chilean Peso. 
 
+ii. Used the TNT small-open economy model to analyze the macroeconomic conditions of Chile during the Capital Control period.  
+
 Full Document here: [Capital Controls in Chile in the 1990s.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777947/Capital.Controls.in.Chile.in.the.1990s.pdf)
 
-
+#
 
 Project X: Analyzing Bitcoin (BTC) price while inflation expectations are high
 # 
