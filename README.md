@@ -1,4 +1,4 @@
-# R-Data-Science-Portfolio
+# Luis Felipe's Portfolio
 Includes the major Data Science projects that I've created using R Studio 
 
 Project 1: Analyzing Bitcoin (BTC) price while inflation expectations are high
