@@ -65,3 +65,22 @@ iii. mFilter was used to separate the different components of the time series
 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/37aa50361bbee666b699eac8f56148879d090101/images/Filtered%20data.png)
 
+#
+
+Project 5: Determinants of the Prevalence of Tobacco Consumption in adults (15+ years old) for the period 2000-2016: Evidence with Panel Data for 131 Countries (Document in Spanish).  
+
+i. Analyzed using Panel data the existing relationship between the Prevalence of Tobacco consumption and different regulations (using the MPOWER Framework of the World Health Organization) in the last decades to reduce consumption of tobacco around the world. 
+
+ii. 
+
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/109878424/219975692-aa14f383-0eb6-4bac-a5d6-89490fc382e5.png">
+
+
+Thesis for Bachelors in Economics (University of Costa Rica) 
+
+Full Document here: [Proyecto investigación Seminario 2 FINAL - Luis Felipe Bolaños Serrano.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777959/Proyecto.investigacion.Seminario.2.FINAL.-.Luis.Felipe.Bolanos.Serrano.pdf)
+
+
+#
+
+
