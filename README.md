@@ -21,3 +21,4 @@ You can access my CV here:
 
 Some of my projects can be found here: 
 
+https://github.com/lufebose/R-Data-Science-Portfolio/tree/projects
