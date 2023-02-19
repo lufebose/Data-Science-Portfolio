@@ -3,6 +3,8 @@ Includes the major Economics Research projects that I've worked on
 
 #
 Project 1: The Return of Inflation, Energy Crisis, and Geopolitical Shocks during 2022: What are the implications for the Portuguese Economy?
+
+Co-Authors: Miguel Andrade, Thiago Campos and Nicolas Gassen. 
 #
 i. Analyzed the situation of the Portuguese economy during 2022 after the energy shocks, inflation and geopolitical instability in the European region due to the Ukrainian war. 
 
@@ -19,7 +21,8 @@ Full Document here: [GPEARI Final Report - NEC.pdf](https://github.com/lufebose/
 
 #
 
-Project 2: Capital Controls in Chile in the 1990s - Macroeconomic Analysis (Master of Science in Economics) Project
+Project 2: Capital Controls in Chile in the 1990s - Macroeconomic Analysis Project (Master of Science in Economics)
+
 Co-Authors: Tommasso Mazzota, Miguel Oliveira and Daniel Silva
 #
 i. Analyzed the utilization of Capital Controls in Chile during the 1990s to prevent the appreciation of the Chilean Peso. 
