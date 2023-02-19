@@ -1,5 +1,5 @@
 # Luis Felipe's Portfolio
-Includes the major Economics Research projects that I've worked on 
+Includes the major Economics Research projects that I've worked on in the last 3 years
 
 #
 Project 1: The Return of Inflation, Energy Crisis, and Geopolitical Shocks during 2022: What are the implications for the Portuguese Economy?
