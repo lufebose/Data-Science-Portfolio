@@ -12,8 +12,7 @@ Languages: Spanish (Native), English (C1), Portuguese (C1), French (C1)
 
 Location: Lisbon, Portugal
 
-Here you can find the research that I did independently during 2022 using R. These insights were published during 2022 and were related to economic/geopolitical events. It can be found in the 2022.md file. 
-
+#
 
 You can access my CV here: 
 
