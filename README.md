@@ -73,7 +73,7 @@ i. Analyzed using Panel data the existing relationship between the Prevalence of
 
 ii. 
 
-<img width="575" alt="image" src="https://user-images.githubusercontent.com/109878424/219975692-aa14f383-0eb6-4bac-a5d6-89490fc382e5.png">
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/109878424/219975768-5a44f411-0e39-4961-bc21-d006103ceba5.png">
 
 
 Thesis for Bachelors in Economics (University of Costa Rica) 
