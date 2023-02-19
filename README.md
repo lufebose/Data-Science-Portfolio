@@ -1,7 +1,34 @@
 # Luis Felipe's Portfolio
-Includes the major Data Science projects that I've created using R Studio 
+Includes the major Economics Research projects that I've worked on 
 
-Project 1: Analyzing Bitcoin (BTC) price while inflation expectations are high
+#
+Project 1: The Return of Inflation, Energy Crisis, and Geopolitical Shocks during 2022: What are the implications for the Portuguese Economy?
+#
+i. Analyzed the situation of the Portuguese economy during 2022 after the energy shocks, inflation and geopolitical instability in the European region due to the Ukrainian war. 
+
+ii. Made in partnership with GPEARI from Ministério das Finanças de Portugal. 
+
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/109878424/219974482-e3da4958-3d4c-487a-ab6e-e69eccbbf4cd.png">
+
+<img width="595" alt="image" src="https://user-images.githubusercontent.com/109878424/219974506-7ae1c3ea-ce47-4c04-a8be-c5e35329c822.png">
+
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/109878424/219974522-6b48d2f2-5f14-440e-9503-8a06c2a44c45.png">
+
+Full Document here: [GPEARI Final Report - NEC.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777945/GPEARI.Final.Report.-.NEC.pdf)
+
+
+#
+
+Project 2: Capital Controls in Chile in the 1990s - Macroeconomic Analysis (Master of Science in Economics) Project
+Co-Authors: Tommasso Mazzota, Miguel Oliveira and Daniel Silva
+#
+i. Analyzed the utilization of Capital Controls in Chile during the 1990s to prevent the appreciation of the Chilean Peso. 
+
+Full Document here: [Capital Controls in Chile in the 1990s.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777947/Capital.Controls.in.Chile.in.the.1990s.pdf)
+
+
+
+Project X: Analyzing Bitcoin (BTC) price while inflation expectations are high
 # 
 i. Used tidyquant, tidyverse, timetk, lubridate, dplyr ggplot2 to extract, analyze and visualize how BTC has behaved during 2022 when it went below $20,000 
 
@@ -17,7 +44,7 @@ iii. Analyzed the bond and foreign exchange market by extracting information in 
 
 #
 
-Project 2: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
+Project y: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
 
 #
 
