@@ -33,7 +33,7 @@ Full Document here: [Capital Controls in Chile in the 1990s.pdf](https://github.
 
 #
 
-Project X: Analyzing Bitcoin (BTC) price while inflation expectations are high
+Project 3: Analyzing Bitcoin (BTC) price while inflation expectations are high
 # 
 i. Used tidyquant, tidyverse, timetk, lubridate, dplyr ggplot2 to extract, analyze and visualize how BTC has behaved during 2022 when it went below $20,000 
 
@@ -49,7 +49,7 @@ iii. Analyzed the bond and foreign exchange market by extracting information in 
 
 #
 
-Project y: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
+Project 4: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
 
 #
 
