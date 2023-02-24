@@ -10,7 +10,7 @@ In partnership with GPEARI (Gabinete de Estudos e Relações Internacionais do M
 #
 i. Analyzed the situation of the Portuguese economy during 2022 after the energy shocks, inflation and geopolitical instability in the European region due to the Ukrainian war. 
 
-ii. Made in partnership with GPEARI from Ministério das Finanças de Portugal. 
+ii. Analyzed the effects on the public and private sector of the Portuguese economy. 
 
 <img width="755" alt="image" src="https://user-images.githubusercontent.com/109878424/221159327-844345d5-1c78-426a-b0da-b389d9b4a36f.png">
 
@@ -30,6 +30,11 @@ Co-Authors: Tommasso Mazzota, Miguel Oliveira and Daniel Silva
 i. Analyzed the utilization of Capital Controls in Chile during the 1990s to prevent the appreciation of the Chilean Peso. 
 
 ii. Used the TNT small-open economy model to analyze the macroeconomic conditions of Chile during the Capital Control period.  
+
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/109878424/221159897-fe112309-ba58-41aa-81f9-f5b35de4b3b5.png">
+
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/109878424/221160089-bdb7cbd8-f08d-4fd3-a381-3e47f1250c55.png">
+
 
 Full Document here: [Capital Controls in Chile in the 1990s.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777947/Capital.Controls.in.Chile.in.the.1990s.pdf)
 
