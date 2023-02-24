@@ -5,16 +5,18 @@ Includes the major Economics Research projects that I've worked on in the last 3
 Project 1: The Return of Inflation, Energy Crisis, and Geopolitical Shocks during 2022: What are the implications for the Portuguese Economy?
 
 Co-Authors: Miguel Andrade, Thiago Campos and Nicolas Gassen. 
+
+In partnership with GPEARI (Gabinete de Estudos e Relações Internacionais do Ministério das Finanças de Portugal)
 #
 i. Analyzed the situation of the Portuguese economy during 2022 after the energy shocks, inflation and geopolitical instability in the European region due to the Ukrainian war. 
 
 ii. Made in partnership with GPEARI from Ministério das Finanças de Portugal. 
 
-<img width="402" alt="image" src="https://user-images.githubusercontent.com/109878424/219974482-e3da4958-3d4c-487a-ab6e-e69eccbbf4cd.png">
+<img width="755" alt="image" src="https://user-images.githubusercontent.com/109878424/221159327-844345d5-1c78-426a-b0da-b389d9b4a36f.png">
 
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/109878424/219974506-7ae1c3ea-ce47-4c04-a8be-c5e35329c822.png">
 
-<img width="405" alt="image" src="https://user-images.githubusercontent.com/109878424/219974522-6b48d2f2-5f14-440e-9503-8a06c2a44c45.png">
+<img width="755" alt="image" src="https://user-images.githubusercontent.com/109878424/221159425-4b37238f-bf5b-4f65-8125-b29eca27ff64.png">
 
 Full Document here: [GPEARI Final Report - NEC.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777945/GPEARI.Final.Report.-.NEC.pdf)
 
