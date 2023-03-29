@@ -1,6 +1,23 @@
 # Luis Felipe's Portfolio
 Includes the major Economics Research projects that I've worked on in the last 3 years
 
+Project 0: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
+
+#
+
+i. Used the Prophet package to forecast the CRC/USD exchange rate. Prophet proved to be a good package to forecast these kinds of series because of non-linearity and high seasonality
+
+ii. With Prophet the seasonality of the variables was analyzed thoroughly. It was observed that the days with the highest seasonality are from Wednesday to Saturday whereas the months with the highest seasonality are June and November
+
+iii. mFilter was used to separate the different components of the time series
+
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/forecasting365.png)
+
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/trend-weekly-yearly.png)
+
+![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/37aa50361bbee666b699eac8f56148879d090101/images/Filtered%20data.png)
+
+
 #
 Project 1: The Return of Inflation, Energy Crisis, and Geopolitical Shocks during 2022: What are the implications for the Portuguese Economy?
 
@@ -54,31 +71,14 @@ iii. Analyzed the bond and foreign exchange market by extracting information in 
 
 ![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/6a924f085f391ce8e9675cb8397ee9698b6f4958/images/dollar2022.png)
 
-#
-
-Project 4: Forecasting the Costa Rican Colon (CRC) Exchange Rate using the Prophet Package and time series filtering using mFilter
 
 #
 
-i. Used the Prophet package to forecast the CRC/USD exchange rate. Prophet proved to be a good package to forecast these kinds of series because of non-linearity and high seasonality
-
-ii. With Prophet the seasonality of the variables was analyzed thoroughly. It was observed that the days with the highest seasonality are from Wednesday to Saturday whereas the months with the highest seasonality are June and November
-
-iii. mFilter was used to separate the different components of the time series
-
-![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/forecasting365.png)
-
-![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/1271e8836859610534773781422ab338a2df18e9/images/trend-weekly-yearly.png)
-
-![](https://github.com/lufebose/R-Data-Science-Portfolio/blob/37aa50361bbee666b699eac8f56148879d090101/images/Filtered%20data.png)
-
-#
-
-Project 5: Determinants of the Prevalence of Tobacco Consumption in adults (15+ years old) for the period 2000-2016: Evidence with Panel Data for 131 Countries (Document in Spanish).  
+Project 4: Determinants of the Prevalence of Tobacco Consumption in adults (15+ years old) for the period 2000-2016: Evidence with Panel Data for 131 Countries (Document in Spanish).  
 
 i. Analyzed using Panel data the existing relationship between the Prevalence of Tobacco consumption and different regulations (using the MPOWER Framework of the World Health Organization) in the last decades to reduce consumption of tobacco around the world. 
 
-ii. 
+ii. Created an index in order to evaluate restrictiveness of tobacco laws in each country. 
 
 <img width="575" alt="image" src="https://user-images.githubusercontent.com/109878424/219975768-5a44f411-0e39-4961-bc21-d006103ceba5.png">
 
