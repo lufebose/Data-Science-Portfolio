@@ -29,16 +29,15 @@ i. Analyzed the situation of the Portuguese economy during 2022 after the energy
 
 ii. Analyzed the effects on the public and private sector of the Portuguese economy. 
 
+<img width="726" alt="image" src="https://github.com/lufebose/R-Data-Science-Portfolio/assets/109878424/4fbb8428-5f83-4b71-9457-43702f14bc71">
 <img width="755" alt="image" src="https://user-images.githubusercontent.com/109878424/221159327-844345d5-1c78-426a-b0da-b389d9b4a36f.png">
-
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/109878424/219974506-7ae1c3ea-ce47-4c04-a8be-c5e35329c822.png">
 
 <img width="755" alt="image" src="https://user-images.githubusercontent.com/109878424/221159425-4b37238f-bf5b-4f65-8125-b29eca27ff64.png">
 
-Full Document here: [GPEARI Final Report - NEC.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777945/GPEARI.Final.Report.-.NEC.pdf)
+Full Document here: [GPEARI.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/11676904/GPEARI.pdf)
 
-
-#
+##
 
 Project 2: Capital Controls in Chile in the 1990s - Macroeconomic Analysis Project (Master of Science in Economics)
 
