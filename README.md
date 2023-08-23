@@ -20,6 +20,6 @@ You can access my CV here:
 
 [CV - Luis Felipe Bolaños Serrano_MAR23.pdf](https://github.com/lufebose/R-Data-Science-Portfolio/files/10777649/CV.-.Luis.Felipe.Bolanos.Serrano_MAR23.pdf)
 
-Some of my projects can be found here: 
+My Portfolio with my most recent projects can be found here: 
 
 https://github.com/lufebose/Data-Science-Portfolio/tree/projects
